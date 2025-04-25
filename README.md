@@ -23,7 +23,7 @@
 - Источник сигнала: Wave Port.  
 
 Скриншоты модели:  
-https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Скриншот%20модели.png 
+ ![](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Скриншот%20модели.png) 
 
 ---
 
@@ -32,15 +32,14 @@ https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Скриншот%20м�
 - Горизонтальная плоскость:  
   ![](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Горизонтальная%20плоскость.png)
 - Вертикальная плоскость:  
-  ![](media/image14.png)  
+  ![](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Вертикальная%20плоскость.png)  
 
 ---
 
 ## Ссылки на файлы  
-1. [PDF-отчет](epr_report.pdf)  
-2. [Архив проекта Ansys (.aedtz)](project_archive.aedtz)  
-3. [Скриншоты моделирования](media/)  
+1. [PDF-отчет](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Отчет%204%20по%20цифровым%20двойникам.pdf)  
+2. [Архив проекта Ansys (.aedtz)](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Car_RCS%20.aedtz)
 
 ---
 
-GitHub-репозиторий: [https://github.com/ваш_логин/Ansys-EPR-Report](https://github.com/ваш_логин/Ansys-EPR-Report)  
+GitHub-репозиторий: [https://github.com/ваш_логин/Ansys-EPR-Report](https://github.com/yahia-2002/Ansys-EPR-Project.git)  
