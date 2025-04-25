@@ -23,7 +23,7 @@
 - Источник сигнала: Wave Port.  
 
 Скриншоты модели:  
-![](media/Вертикальная плоскость.png)  
+(https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Горизонтальная%20плоскость.png)  
 ![](media/image3.png)  
 
 ---
