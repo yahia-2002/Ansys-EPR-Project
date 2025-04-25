@@ -23,15 +23,14 @@
 - Источник сигнала: Wave Port.  
 
 Скриншоты модели:  
-
-![](media/image3.png)  
+https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Скриншот%20модели.png 
 
 ---
 
 ## Результаты  
 ### Диаграммы рассеивания  
 - Горизонтальная плоскость:  
-  ![](media/image13.png)  
+  [![](media/image13.png)  ](https://github.com/yahia-2002/Ansys-EPR-Project/blob/main/Горизонтальная%20плоскость.png)
 - Вертикальная плоскость:  
   ![](media/image14.png)  
 
